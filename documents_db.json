@@ -1,0 +1,262 @@
+[
+    {
+        "id": "43e81fd1ac2c4662b720a57231daa2eb",
+        "filename": "Screenshot 2026-07-07 at 15.06.31.png",
+        "file_path": "uploads/43e81fd1ac2c4662b720a57231daa2eb.png",
+        "upload_date": "2026-08-19 22:18:23",
+        "extracted_text": "Government of Nepal has issued this Citizenship Certificate with following details.\n\nCitizenship Certificate No.: 30-01 -79-01695 Sex Female\nFull Name.: KRISHU SHRESTHA\nDate of Birth (AD): Year.2005 Month:OCT Day-07\nBirth Place: District: Kavrepalanchok\n\nMunicipality : Banepa Ward No.:8\nPermanent Address: _ District: Kavrepalanchok\n\nMunicipality : Banepa Ward No.:8\n\naeseaerac che Ap a TN PRT NAY GSR)\n\n",
+        "summary": "This document is a Citizenship Certificate issued by the Government of Nepal. It contains details regarding the individual\u2019s identity, including their name, date of birth, and permanent address.",
+        "key_info": {
+            "Certificate Number": "30-01-79-01695",
+            "Name": "KRISHU SHRESTHA",
+            "Date of Birth": "2005-10-07",
+            "Sex": "Female",
+            "Birth Place": "Kavrepalanchok",
+            "Municipality": "Banepa",
+            "Ward No.": "8",
+            "Permanent Address": "Kavrepalanchok, Banepa, Ward No. 8"
+        },
+        "doc_type": "Certificate",
+        "confidence": 0.95,
+        "stats": {
+            "words": 56,
+            "characters": 405,
+            "pages": 1,
+            "processing_time": 4.36
+        },
+        "favorite": false
+    },
+    {
+        "id": "06609a08f1474602b5766e8e1d2bd489",
+        "filename": "Screenshot_2024-07-29-11-33-25-80_4b9fd23305a646602b3a9657dc13977d.jpg",
+        "file_path": "uploads/06609a08f1474602b5766e8e1d2bd489.jpg",
+        "upload_date": "2026-08-19 22:19:55",
+        "extracted_text": "11:33 G\n\n< Transaction Details\n\nNPR XXXX.XX\n\nBalance\n\noo @: 4 58% wl\n\n3 &\nO)\n\nFonepay Payment\n\n2024-07-29 11:33 AM\n\nAmount (NPR):\n16500\n\nTransaction Code:\nOMRUOY6\n\nMerchant Code:\n2222020002210116\n\nDescription:\n\nkrishu shrestha uni\nfee\n\nAmount In Local\nCurrency:\n\n16500.0\n\nPayment Method:\neSewa Wallet\n\nChannel:\nApp\n\nProcessed By:\n9847352064\n\nTransaction Currency:\nNPR\n\nTotal Calculated\nAmount:\n\n16500.0\n\nMerchant Name:\nKings College\n\n\u00a9 Payment Successful!\n\nRAISE ISSUE\n",
+        "summary": "**Main Topic/Purpose**\nThis document is an invoice for a fee payment made via the Fonepay system for a service related to Kings College. \n\n**Key Points**\n- Payment processed on July 29, 2024 at 11:33 AM.\n- Payment was made through eSewa Wallet.\n- Total amount paid: NPR 16,500.\n- Transaction was successful. \n\n**Important Information**\n- Merchant Name: Kings College\n- Payment Method: eSewa Wallet\n- Transaction Code: OMRUOY6\n- Merchant Code: 2222020002210116\n- Processed By: 9847352064\n\n**Conclusion**\nThe invoice indicates a successful payment transaction to Kings College for a fee, with details provided for reference and the option to raise an issue if necessary.",
+        "key_info": {
+            "Transaction Date": "2024-07-29 11:33 AM",
+            "Amount": "16500",
+            "Transaction Code": "OMRUOY6",
+            "Merchant Code": "2222020002210116",
+            "Description": "krishu shrestha uni fee",
+            "Payment Method": "eSewa Wallet",
+            "Processed By": "9847352064",
+            "Merchant Name": "Kings College"
+        },
+        "doc_type": "Invoice",
+        "confidence": 0.95,
+        "stats": {
+            "words": 65,
+            "characters": 469,
+            "pages": 1,
+            "processing_time": 6.53
+        },
+        "favorite": false
+    },
+    {
+        "id": "08657e28dbf74448a749758961fa451f",
+        "filename": "Screenshot 2026-07-07 at 15.06.31.png",
+        "file_path": "uploads/08657e28dbf74448a749758961fa451f.png",
+        "upload_date": "2026-08-19 22:22:38",
+        "extracted_text": "Government of Nepal has issued this Citizenship Certificate with following details.\n\nCitizenship Certificate No.: 30-01 -79-01695 Sex Female\nFull Name.: KRISHU SHRESTHA\nDate of Birth (AD): Year.2005 Month:OCT Day-07\nBirth Place: District: Kavrepalanchok\n\nMunicipality : Banepa Ward No.:8\nPermanent Address: _ District: Kavrepalanchok\n\nMunicipality : Banepa Ward No.:8\n\naeseaerac che Ap a TN PRT NAY GSR)\n\n",
+        "summary": "The document is a Citizenship Certificate issued by the Government of Nepal, containing specific personal details of an individual.",
+        "key_info": {
+            "Certificate Number": "30-01-79-01695",
+            "Full Name": "KRISHU SHRESTHA",
+            "Date of Birth": "2005-10-07",
+            "Birth Place": "Kavrepalanchok",
+            "Municipality": "Banepa",
+            "Ward No.": "8",
+            "Permanent Address - District": "Kavrepalanchok",
+            "Permanent Address - Municipality": "Banepa",
+            "Permanent Address - Ward No.": "8"
+        },
+        "doc_type": "Certificate",
+        "confidence": 0.95,
+        "stats": {
+            "words": 56,
+            "characters": 405,
+            "pages": 1,
+            "processing_time": 4.0
+        },
+        "favorite": false
+    },
+    {
+        "id": "5707ae3b62284cfc9e77665c6ba9f1a0",
+        "filename": "Screenshot 2026-07-07 at 15.06.31.png",
+        "file_path": "uploads/5707ae3b62284cfc9e77665c6ba9f1a0.png",
+        "upload_date": "2026-08-19 22:24:44",
+        "extracted_text": "Government of Nepal has issued this Citizenship Certificate with following details.\n\nCitizenship Certificate No.: 30-01 -79-01695 Sex Female\nFull Name.: KRISHU SHRESTHA\nDate of Birth (AD): Year.2005 Month:OCT Day-07\nBirth Place: District: Kavrepalanchok\n\nMunicipality : Banepa Ward No.:8\nPermanent Address: _ District: Kavrepalanchok\n\nMunicipality : Banepa Ward No.:8\n\naeseaerac che Ap a TN PRT NAY GSR)\n\n",
+        "summary": "This document is a Citizenship Certificate issued by the Government of Nepal, containing essential details about an individual.",
+        "key_info": {
+            "Certificate Number": "30-01-79-01695",
+            "Name": "KRISHU SHRESTHA",
+            "Sex": "Female",
+            "Date of Birth": "2005-10-07",
+            "Birth Place": "Kavrepalanchok",
+            "Municipality": "Banepa",
+            "Ward No.": "8",
+            "Permanent Address": "Kavrepalanchok, Municipality: Banepa, Ward No.: 8"
+        },
+        "doc_type": "Certificate",
+        "confidence": 0.95,
+        "stats": {
+            "words": 56,
+            "characters": 405,
+            "pages": 1,
+            "processing_time": 2.92
+        },
+        "favorite": false
+    },
+    {
+        "id": "7e9d1a4ecee841ed925ed97f13d067f3",
+        "filename": "Screenshot 2026-06-15 at 12.19.26.png",
+        "file_path": "uploads/7e9d1a4ecee841ed925ed97f13d067f3.png",
+        "upload_date": "2026-08-19 22:25:35",
+        "extracted_text": "YOUR SCORE: Your score explained\n\nC1/C2 Advanced\n\nYour score indicates that your level is in the range of C1 ADVANCED to C2\nPROFICIENT, according to the guidelines set by the Common European\nFramework of Reference (CEFR).\n\nReading Score\n\nYou understand written texts on abstract topics with\nrelative ease, and you recognize implied meaning\nwhen not explicitly stated.\n\nC1/C2\nAdvanced\nShare your score\nf \u00ae \u00a9 ( }) Listening Score\nYou understand a wide range of spoken idiomatic\nexpressions and colloquialisms, and you can follow\nmost spoken input with confidence.\nC1/C2\nAdvanced\n\nScore comparison table\n\nLevel Beginner Intermediate\n\nEF SET 0-60% 61-85%\n\n",
+        "summary": "**Main Topic/Purpose**\nThe document is a score report indicating the proficiency level of an individual in language skills according to the Common European Framework of Reference (CEFR).\n\n**Key Points**\n- The score falls within the C1 to C2 proficiency levels, indicating advanced to proficient language skills.\n- The reading score reflects an ability to understand abstract written texts and recognize implied meanings.\n- The listening score indicates confidence in understanding idiomatic expressions and following spoken input.\n\n**Important Information**\n- Classification: C1/C2 Advanced\n\n**Conclusion**\nThe score report effectively communicates that the individual has a high level of proficiency in both reading and listening skills.",
+        "key_info": {
+            "Proficiency Level": "C1/C2 Advanced",
+            "Reading Score Description": "Understand written texts on abstract topics with relative ease.",
+            "Listening Score Description": "Understand a wide range of spoken idiomatic expressions and colloquialisms.",
+            "CEFR Guideline": "Common European Framework of Reference (CEFR)"
+        },
+        "doc_type": "Certificate",
+        "confidence": 0.92,
+        "stats": {
+            "words": 101,
+            "characters": 652,
+            "pages": 1,
+            "processing_time": 6.89
+        },
+        "favorite": false
+    },
+    {
+        "id": "705c58d2ff7942b89e0ce04be5a816cb",
+        "filename": "IMG-20230120-WA0002.jpg",
+        "file_path": "uploads/705c58d2ff7942b89e0ce04be5a816cb.jpg",
+        "upload_date": "2026-08-20 22:14:34",
+        "extracted_text": "Channel\nPayment\nAttribute\n\nService Name\n\nAmount(NPR)\n\nTxn\nAmount(NPR)\n\nCharge(NPR)\nInitiator\n\nTo Account\n\n2023,09:50\nAM\n\nPRVUNPKA:\n001002939860\n0062\n\nFonepay\nInterbank\n\n32,600.00\n32610.0\n\n10\n9851035465\n001002939860\n0062\n\nSave Recipient\n\n| Go Back To Dashboard |\n\n1)\n",
+        "summary": "This document appears to be an invoice related to a payment transaction through Fonepay for a service. The transaction includes details such as service name, amounts, and initiator information.",
+        "key_info": {
+            "Service Name": "Fonepay Interbank",
+            "Txn Amount (NPR)": "32,600.00",
+            "Charge (NPR)": "32,610.0",
+            "Initiator Phone": "9851035465",
+            "To Account": "PRVUNPKA: 001002939860 0062"
+        },
+        "doc_type": "Invoice",
+        "confidence": 0.85,
+        "stats": {
+            "words": 34,
+            "characters": 266,
+            "pages": 1,
+            "processing_time": 3.29
+        },
+        "favorite": false
+    },
+    {
+        "id": "ce35df2b2eac41ce960018081b0739e0",
+        "filename": "IMG-20230120-WA0000.jpg",
+        "file_path": "uploads/ce35df2b2eac41ce960018081b0739e0.jpg",
+        "upload_date": "2026-08-21 07:30:16",
+        "extracted_text": "9:50AM Zi \u00a9 A &---\n\nDownload Receipt\n\nTransferred Successfully\n\nReference Code\n\nDate/Time\n\nChannel\nPayment\nAttribute\n\nService Name\n\nAmount(NPR)\n\nTxn\nAmount(NPR)\n\nCharge(NPR)\nInitiator\n\nTo Account\n\n9407071\n20 Jan\n\n2023,09:50\nAM\n\nPRVUNPKA:\n001002939860\n0062\n\nFonepay\nInterbank\n\n32,600.00\n32610.0\n\n10\n9851035465\n\n001002939860\n0062\n",
+        "summary": "This document appears to be a receipt for a successful transfer made electronically through the Fonepay interbank service. The receipt includes detailed information about the transaction, service name, and amounts involved.",
+        "key_info": {
+            "Date": "20 Jan 2023, 09:50 AM",
+            "Service Name": "Fonepay Interbank",
+            "Amount (NPR)": "32,600.00",
+            "Txn Amount (NPR)": "32,610.00",
+            "Charge (NPR)": "10",
+            "Initiator": "9851035465",
+            "To Account": "001002939860 0062"
+        },
+        "doc_type": "Invoice",
+        "confidence": 0.95,
+        "stats": {
+            "words": 40,
+            "characters": 328,
+            "pages": 1,
+            "processing_time": 5.43
+        },
+        "favorite": false
+    },
+    {
+        "id": "ab4b590ac29a4f94bd074dd688cc61a4",
+        "filename": "krishu CV shrestha.pdf",
+        "file_path": "uploads/ab4b590ac29a4f94bd074dd688cc61a4.pdf",
+        "upload_date": "2026-08-21 07:34:00",
+        "extracted_text": "--- Page 1 ---\nKRISHU SHRESTHA\nIT Student\nkrishushrestha196@gmail.com\n \n9847352064\n \nNewroad, Kathmandu\n \nlinkedin.com/in/krishu-shrestha/\n \ngithub.com/krishu-shrestha\n \nSUMMARY\nI am an IT student with a strong analytical mindset and interests in multiple areas of technology, including \ndata science, project management, and software development. I enjoy applying my technical knowledge to \nreal-world problems while supporting teamwork and organized project execution. Currently developing my \nindustry-ready skills and always eager to learn, I aim to contribute to impactful technology-driven solutions \nwhile continuously improving my knowledge and experience.\nWORK EXPERIENCE\nWeb Application Developer, Research & Development Intern, \nAmbassador's Club, The Diplomat Nepal, & IRGDD\n\u2022Designed and developed a complete website from scratch, including frontend, \nbackend, and database components\n\u2022Built responsive user interfaces and implemented core website functionality\n09/2025 \u2013 02/2026\n\u2022Developed backend logic and APIs to handle data processing and user requests\n\u2022Designed and managed the database structure and data integration\n\u2022Tested, debugged, and deployed the web application.\n\u2022Collaborated with the R&D team to explore emerging technologies for practical \napplications\nGeo-Data Analysis Intern, Galli Maps\n\u2022Collected geo-tagged data through online research and web scraping.\n\u2022Clean and validate data to ensure accuracy for analysis.\n03/2025 \u2013 05/2025\n\u2022Used Python and Jupyter Notebook for data processing and visualization.\n\u2022Collaborated with team to understand data needs and share insights.\n\u2022Maintained and update data repositories.\n\u2022Gained hands-on experience with GIS and geospatial tools.\n\u2022Supported various data management and technical tasks.\nAdmin/Database Intern, Kathalaya Inc.\n\u2022Managed databases and organized records.\n\u2022Designed marketing materials and event promotions.\n08/2023 \u2013 01/2024\n\u2022Coordinated events and handled client/vendor communication.\n\u2022Created content summaries and internal documentation.\n\u2022Maintained office organization and ensured timely repairs.\nEDUCATION\nBachelors of Science in Information Technology (BSc. IT), \nKING'S COLLEGE, BANESWOR, KATHMANDU\n02/2023 \u2013 Present\nKathmandu, Nepal\nScience Faculty, KATHMANDU UNIVERSITY HIGH SCHOOL\n\u2022Studied Computer, Mathematics, Physics, and Chemistry as core subjects\n\u2022GPA 3.47 in Grade 11\n2020 \u2013 2022\nChaukot, Panauti\n\u2022GPA 3.51 in Grade 12\n\n--- Page 2 ---\nSecondary Education Examination (SEE), \nVIDHYA SAGAR ENGLISH SECONDARY SCHOOL\n\u2022Completed Schooling with GPA 3.80\n2020\nBanepa, Kavre\nTECHNICAL SKILLS\nUI/UX Design\nFigma, Wireframing, Prototyping, User Flows, User \nResearch, Usability Testing\nFrontend Technologies\nHTML, CSS, JavaScript, Bootstrap, React.js\nDatabase Management\nPostgreSQL, MongoDB, SQL, MS Access\nDesign & Design Tools\nResponsive Design, Visual Design, Interaction \nDesign, Design Systems, Figma, FigJam, Canva, Git, \nGitHub\nProgramming Languages\nPython, JavaScript, TypeScript, C/C++\nFrameworks\nReact, Next.js, FastAPI, Node.js, Django\nAutomation & AI Tools\nApify (Actors, Web Automation), OpenAI API (text \ngeneration, prompt engineering)\nPROJECTS\nFull-Stack Website Project, https://ambassadorsclubnepal.com\n\u2022React.js, Vite, Node.js, Express.js, MySQL, PostgreSQL, MongoDB, OpenAI API, JWT, Bcrypt, Apify, Vercel, \nHeroku\nSmart Waste Management System\n\u2022React, Node.js, PostgreSQL, MongoDB, Firebase, Vercel, Heroku, OpenAI, DiagoFlow, Mapbox, Polygon\nHospital Management System\n\u2022React.js, Vite, JavaScript, Node.js, Express.js, MySQL, JWT Authentication, Bcrypt, Google OAuth, Chart.js,\nOpenAI API, Groq SDK, Git, GitHub\nReal-Time Job Market Tracer\n\u2022Python, Django, SQL, Web Scraping, Data Analysis, HTML, CSS, JavaScript, Git, GitHub\nE-Commerce Website\n\u2022HTML5, CSS3, JavaScript, Git, GitHub\nData Management of A Hotel Company\n\u2022Python, Jupyter Notebook, Scikit-learn, Matplotlib, Pandas, Seaborn\nPortfolio Website\n\u2022HTML5, CSS3, Figma, Responsive Web Design, UI/UX Design\nVehicle Rental System\n\u2022Django 5.x, Django Templates, Bootstrap 5, Vanilla CSS, SQLite3, Docker, Docker Compose, Google Fonts \n(Outfit), Bootstrap Icons\n\n--- Page 3 ---\nCERTIFICATIONS\nHackathon 72-Hour-Top 5 - \nChairman's Award (2025: DAV \nCodeFest)\nIntroduction to Python - \nDatacamp\nUI/UX Workshop (2025: AITC \nEducation)\nIntroduction to SQL - Kaggle\nHP Life Inventory Management\nSOFT SKILLS\nInterpersonal & Professional\nEffective communication, Team collaboration, \nAdaptability, Time management, Attention to detail, \nProblem-solving, Professionalism, Resilience, \nStrategic Thinking, Project Evaluation",
+        "summary": "**Main Topic/Purpose**\nThis document is a resume for Krishu Shrestha, an IT student seeking opportunities in technology-related fields. \n\n**Key Points**\n- The individual is pursuing a Bachelor of Science in Information Technology and has a strong interest in data science, project management, and software development.\n- Has completed internships in web application development, geo-data analysis, and database management, gaining hands-on experience in various technical skills.\n- Lists several relevant technical skills, including programming languages, frontend technologies, database management, and design tools.\n- Includes various projects demonstrating skills in full-stack development, data management, and user interface design.\n\n**Important Information**\n- Name: Krishu Shrestha  \n- Email: krishushrestha196@gmail.com  \n- Phone: 9847352064  \n- LinkedIn: linkedin.com/in/krishu-shrestha/  \n- GitHub: github.com/krishu-shrestha  \n- Education: Bachelor's Degree in Information Technology, King's College, Kathmandu (Present)\n- Relevant Work Experience: Web Application Developer Intern, Geo-Data Analysis Intern, Admin/Database Intern  \n- Certifications: Hackathon 72-Hour-Top 5, Introduction to Python, UI/UX Workshop, Introduction to SQL, HP Life Inventory Management\n\n**Conclusion**\nThis resume effectively outlines Krishu's education, skills, projects, and work experience, showcasing a well-rounded candidate ready to contribute to technology-driven solutions.",
+        "key_info": {
+            "Name": "Krishu Shrestha",
+            "Email": "krishushrestha196@gmail.com",
+            "Phone": "9847352064",
+            "Organization": "King's College, Baneswor, Kathmandu",
+            "Date": "02/2023 \u2013 Present",
+            "Experience": "Admin/Database Intern at Kathalaya Inc. (08/2023 \u2013 01/2024)",
+            "Certifications": "HP Life Inventory Management"
+        },
+        "doc_type": "Resume/CV",
+        "confidence": 0.95,
+        "stats": {
+            "words": 581,
+            "characters": 4586,
+            "pages": 3,
+            "processing_time": 8.74
+        },
+        "favorite": false
+    },
+    {
+        "id": "dca9dc7583d1486fbe387e74f1fa90c9",
+        "filename": "Screenshot 2026-07-07 at 15.06.31.png",
+        "file_path": "uploads/dca9dc7583d1486fbe387e74f1fa90c9.png",
+        "upload_date": "2026-08-21 08:47:04",
+        "extracted_text": "Government of Nepal has issued this Citizenship Certificate with following details.\n\nCitizenship Certificate No.: 30-01 -79-01695 Sex Female\nFull Name.: KRISHU SHRESTHA\nDate of Birth (AD): Year.2005 Month:OCT Day-07\nBirth Place: District: Kavrepalanchok\n\nMunicipality : Banepa Ward No.:8\nPermanent Address: _ District: Kavrepalanchok\n\nMunicipality : Banepa Ward No.:8\n\naeseaerac che Ap a TN PRT NAY GSR)\n\n",
+        "summary": "This document is a Citizenship Certificate issued by the Government of Nepal, containing essential personal details of the individual.",
+        "key_info": {
+            "Certificate Number": "30-01-79-01695",
+            "Full Name": "KRISHU SHRESTHA",
+            "Sex": "Female",
+            "Date of Birth": "2005-10-07",
+            "Birth Place": "Kavrepalanchok",
+            "Municipality": "Banepa",
+            "Ward No": "8"
+        },
+        "doc_type": "Certificate",
+        "confidence": 0.95,
+        "stats": {
+            "words": 56,
+            "characters": 405,
+            "pages": 1,
+            "processing_time": 5.04
+        },
+        "favorite": false
+    },
+    {
+        "id": "27cd067f88a9456dac223cc0d6d8ec47",
+        "filename": "IMG-20230120-WA0001.jpg",
+        "file_path": "uploads/27cd067f88a9456dac223cc0d6d8ec47.jpg",
+        "upload_date": "2026-08-21 08:49:08",
+        "extracted_text": "9:51AM 2 \u00a9 A me all all , GD\"\n\nDownload Receipt\n\nTransferred Successfully\n\nDate/Time 20 Jan\n2023,09:50\nAM\n\nChannel ONLINE\n\nPayment PRVUNPKA:\n\nAttribute 001002939860\n0062\n\nService Name Fonepay\nInterbank\n\nAmount(NPR) 32,600.00\n\nTxn 32610.0\n\nAmount(NPR)\n\nCharge(NPR) 10\n\nInitiator 9851035465\n\n<4 @ a\n",
+        "summary": "This document is a payment receipt for a transaction made through an online service. The transaction includes details such as the date, service name, amount paid, and other relevant identifiers.",
+        "key_info": {
+            "Date": "20 Jan 2023, 09:50 AM",
+            "Service Name": "Fonepay Interbank",
+            "Amount": "32,600.00 NPR",
+            "Charge": "10 NPR",
+            "Initiator": "9851035465",
+            "Payment Reference": "PRVUNPKA",
+            "Transaction ID": "32610.0"
+        },
+        "doc_type": "Other",
+        "confidence": 0.85,
+        "stats": {
+            "words": 41,
+            "characters": 297,
+            "pages": 1,
+            "processing_time": 4.43
+        },
+        "favorite": false
+    }
+]

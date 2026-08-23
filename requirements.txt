@@ -1,0 +1,8 @@
+streamlit
+pytesseract
+pillow>=10.1.0
+pymupdf
+pytest
+google-genai
+python-dotenv
+-e .
